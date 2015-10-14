@@ -13,7 +13,7 @@ Time spent: 6 hours spent in total
  
 Walkthrough of all user stories:
 
-![PreworkGif]( Won't load... )
+![PreworkGif](https://raw.githubusercontent.com/KayceeACollins/CodePath_Assignment_4/master/Assignment4.gif)
 
 
 
